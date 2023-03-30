@@ -1,7 +1,7 @@
 console.clear();
 
 /*
-STRINGS: - simboliu sarasas/junginys, tekstas
+STRINGS - simboliu sarasas/junginys, tekstas
 
 Kintamųjų iniciavimas:
 - const (default)
