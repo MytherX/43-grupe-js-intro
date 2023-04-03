@@ -4,8 +4,11 @@
     "description": "JS INTRO",
     "main": "index.js",
     "scripts": {
+      "strings": "nodemon ./js/02-strings.js",
+      "numbers": "nodemon ./js/01-numbers.js",
+      "dev": "nodemon",
       "test": "echo \"Error: no test specified\" && exit 1"
-    },
+  },
     "keywords": [],
     "author": "Arnoldas (https://github.com/mytherx)",
     "license": "MIT",
